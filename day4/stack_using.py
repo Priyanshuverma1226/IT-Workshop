@@ -32,4 +32,4 @@ if __name__ == '__main__':
             case 3:
                 display(stack)
             case other:
-                print("Invalid Choice")
+                print("Invalid Choices")
